@@ -16,6 +16,9 @@ div.horizontal {
     justify-content: center;
 }
 
+p{
+}
+
 div.vertical {
     display: flex;
     flex-direction: column;
